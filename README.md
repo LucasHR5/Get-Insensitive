@@ -3,6 +3,16 @@
 # Objetivo
 Este projeto tem como objetivo testar a funcionalidade de busca de registros por nome de maneira insensitiva, visando trazer rapidez e precisão em consultas de listagem.
 
+[x] Setup NestJS
+
+[x] Setup Prisma ORM
+
+[x] Implementação do CRUD
+
+[x] Implementação do Método FindByName
+
+[x] Teste no Postman
+
 # Tecnologias Utilizadas
 
 NestJS: Framework para construção de APIs robustas.
